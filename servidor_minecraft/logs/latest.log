@@ -93,3 +93,167 @@
 [01:48:12] [Server thread/WARN]: handleDisconnection() called twice
 [01:48:54] [Server thread/INFO]: FranPiovano[/127.132.119.81:56439] logged in with entity id 519 at (91.5, 64.0, -193.5)
 [01:48:54] [Server thread/INFO]: FranPiovano joined the game
+[01:51:59] [Server thread/INFO]: notfabripe[/127.153.76.19:43575] logged in with entity id 1103 at (97.5, 63.0, -180.5)
+[01:51:59] [Server thread/INFO]: notfabripe joined the game
+[01:52:14] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:52:14] [Server thread/INFO]: notfabripe left the game
+[01:52:28] [Server thread/INFO]: notfabripe[/127.153.76.19:54035] logged in with entity id 1150 at (97.5, 63.0, -180.5)
+[01:52:28] [Server thread/INFO]: notfabripe joined the game
+[01:52:43] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:52:43] [Server thread/INFO]: notfabripe left the game
+[01:52:52] [Server thread/INFO]: notfabripe[/127.153.76.19:36479] logged in with entity id 1192 at (97.5, 63.0, -180.5)
+[01:52:52] [Server thread/INFO]: notfabripe joined the game
+[01:53:06] [Server thread/INFO]: elJotaBe[/127.99.28.50:52943] logged in with entity id 1290 at (90.5, 64.0, -193.5)
+[01:53:06] [Server thread/INFO]: elJotaBe joined the game
+[01:53:07] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:53:07] [Server thread/INFO]: notfabripe left the game
+[01:53:21] [Server thread/INFO]: elJotaBe lost connection: Timed out
+[01:53:21] [Server thread/INFO]: elJotaBe left the game
+[01:53:29] [Server thread/INFO]: elJotaBe[/127.99.28.50:34955] logged in with entity id 1358 at (90.5, 64.0, -193.5)
+[01:53:29] [Server thread/INFO]: elJotaBe joined the game
+[01:53:30] [Server thread/INFO]: notfabripe[/127.153.76.19:60379] logged in with entity id 1405 at (97.5, 63.0, -180.5)
+[01:53:30] [Server thread/INFO]: notfabripe joined the game
+[01:53:46] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:53:46] [Server thread/INFO]: notfabripe left the game
+[01:54:00] [Server thread/INFO]: Made franpiova a server operator
+[01:54:00] [Server thread/INFO]: notfabripe[/127.153.76.19:60149] logged in with entity id 1524 at (97.5, 63.0, -180.5)
+[01:54:00] [Server thread/INFO]: notfabripe joined the game
+[01:54:11] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=81, y=77, z=-186}
+[01:54:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=81, y=77, z=-186}
+[01:54:12] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=82, y=77, z=-186}
+[01:54:15] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:54:15] [Server thread/INFO]: notfabripe left the game
+[01:54:24] [Server thread/INFO]: Made franpiova no longer a server operator
+[01:54:25] [Server thread/INFO]: notfabripe[/127.153.76.19:42447] logged in with entity id 1567 at (97.5, 63.0, -180.5)
+[01:54:25] [Server thread/INFO]: notfabripe joined the game
+[01:54:31] [Server thread/INFO]: Made FranPiovano a server operator
+[01:54:37] [Server thread/INFO]: notfabripe was slain by Zombie
+[01:54:40] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:54:40] [Server thread/INFO]: notfabripe left the game
+[01:54:44] [Server thread/INFO]: notfabripe[/127.153.76.19:39525] logged in with entity id 1617 at (97.5, 63.0, -180.5)
+[01:54:44] [Server thread/INFO]: notfabripe joined the game
+[01:55:16] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=89, y=65, z=-195}
+[01:55:19] [Server thread/INFO]: [FranPiovano: Set the time to 1000]
+[01:55:20] [Server thread/INFO]: notfabripe was slain by Zombie
+[01:55:28] [Server thread/INFO]: <elJotaBe> metanme al serverç
+[01:55:32] [Server thread/INFO]: <elJotaBe> xd
+[01:55:36] [Server thread/INFO]: <elJotaBe> me sali sin querer
+[01:55:44] [Server thread/INFO]: notfabripe lost connection: Timed out
+[01:55:44] [Server thread/INFO]: notfabripe left the game
+[01:56:02] [Server thread/INFO]: notfabripe[/127.153.76.19:49135] logged in with entity id 2017 at (95.45017000211307, 66.0, -171.63238545585844)
+[01:56:02] [Server thread/INFO]: notfabripe joined the game
+[01:56:10] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:56:10] [Server thread/INFO]: FranPiovano left the game
+[01:56:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=0, y=0, z=0} gg{x=89, y=65, z=-195}
+[01:56:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:56:34] [Server thread/INFO]: ping<--[HERE]
+[01:56:37] [Server thread/INFO]: /advancement (grant|revoke)
+[01:56:37] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[01:56:37] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[01:56:37] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[01:56:37] [Server thread/INFO]: /clear [<targets>]
+[01:56:37] [Server thread/INFO]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[01:56:37] [Server thread/INFO]: /data (merge|get|remove|modify)
+[01:56:37] [Server thread/INFO]: /datapack (enable|disable|list)
+[01:56:37] [Server thread/INFO]: /debug (start|stop|function)
+[01:56:37] [Server thread/INFO]: /defaultgamemode (survival|creative|adventure|spectator)
+[01:56:37] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[01:56:37] [Server thread/INFO]: /effect (clear|give)
+[01:56:37] [Server thread/INFO]: /me <action>
+[01:56:37] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[01:56:37] [Server thread/INFO]: /experience (add|set|query)
+[01:56:37] [Server thread/INFO]: /xp -> experience
+[01:56:37] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[01:56:37] [Server thread/INFO]: /forceload (add|remove|query)
+[01:56:37] [Server thread/INFO]: /function <name>
+[01:56:37] [Server thread/INFO]: /gamemode (survival|creative|adventure|spectator)
+[01:56:37] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[01:56:37] [Server thread/INFO]: /give <targets> <item> [<count>]
+[01:56:37] [Server thread/INFO]: /help [<command>]
+[01:56:37] [Server thread/INFO]: /item (replace|modify)
+[01:56:37] [Server thread/INFO]: /kick <targets> [<reason>]
+[01:56:37] [Server thread/INFO]: /kill [<targets>]
+[01:56:37] [Server thread/INFO]: /list [uuids]
+[01:56:37] [Server thread/INFO]: /locate (pillager_outpost|mineshaft|mansion|jungle_pyramid|desert_pyramid|igloo|ruined_portal|shipwreck|swamp_hut|stronghold|monument|ocean_ruin|fortress|endcity|buried_treasure|village|nether_fossil|bastion_remnant)
+[01:56:37] [Server thread/INFO]: /locatebiome <biome>
+[01:56:37] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[01:56:37] [Server thread/INFO]: /msg <targets> <message>
+[01:56:37] [Server thread/INFO]: /tell -> msg
+[01:56:37] [Server thread/INFO]: /w -> msg
+[01:56:37] [Server thread/INFO]: /particle <name> [<pos>]
+[01:56:37] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[01:56:37] [Server thread/INFO]: /reload
+[01:56:37] [Server thread/INFO]: /recipe (give|take)
+[01:56:37] [Server thread/INFO]: /say <message>
+[01:56:37] [Server thread/INFO]: /schedule (function|clear)
+[01:56:37] [Server thread/INFO]: /scoreboard (objectives|players)
+[01:56:37] [Server thread/INFO]: /seed
+[01:56:37] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[01:56:37] [Server thread/INFO]: /spawnpoint [<targets>]
+[01:56:37] [Server thread/INFO]: /setworldspawn [<pos>]
+[01:56:37] [Server thread/INFO]: /spectate [<target>]
+[01:56:37] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[01:56:37] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[01:56:37] [Server thread/INFO]: /summon <entity> [<pos>]
+[01:56:37] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[01:56:37] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[01:56:37] [Server thread/INFO]: /teammsg <message>
+[01:56:37] [Server thread/INFO]: /tm -> teammsg
+[01:56:37] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[01:56:37] [Server thread/INFO]: /tp -> teleport
+[01:56:37] [Server thread/INFO]: /tellraw <targets> <message>
+[01:56:37] [Server thread/INFO]: /time (set|add|query)
+[01:56:37] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[01:56:37] [Server thread/INFO]: /trigger <objective> [add|set]
+[01:56:37] [Server thread/INFO]: /weather (clear|rain|thunder)
+[01:56:37] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[01:56:37] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[01:56:37] [Server thread/INFO]: /banlist [ips|players]
+[01:56:37] [Server thread/INFO]: /ban <targets> [<reason>]
+[01:56:37] [Server thread/INFO]: /deop <targets>
+[01:56:37] [Server thread/INFO]: /op <targets>
+[01:56:37] [Server thread/INFO]: /pardon <targets>
+[01:56:37] [Server thread/INFO]: /pardon-ip <target>
+[01:56:37] [Server thread/INFO]: /perf (start|stop)
+[01:56:37] [Server thread/INFO]: /save-all [flush]
+[01:56:37] [Server thread/INFO]: /save-off
+[01:56:37] [Server thread/INFO]: /save-on
+[01:56:37] [Server thread/INFO]: /setidletimeout <minutes>
+[01:56:37] [Server thread/INFO]: /stop
+[01:56:37] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[01:57:35] [Server thread/INFO]: FranPiovano[/127.132.119.81:40355] logged in with entity id 2673 at (159.6606738339194, 64.0, -146.84415031692257)
+[01:57:35] [Server thread/INFO]: FranPiovano joined the game
+[01:57:50] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:57:50] [Server thread/INFO]: FranPiovano left the game
+[01:57:54] [Server thread/INFO]: FranPiovano[/127.132.119.81:38451] logged in with entity id 2761 at (159.6606738339194, 64.0, -146.84415031692257)
+[01:57:54] [Server thread/INFO]: FranPiovano joined the game
+[01:58:09] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:58:09] [Server thread/INFO]: FranPiovano left the game
+[01:58:13] [Server thread/INFO]: FranPiovano[/127.132.119.81:55925] logged in with entity id 2840 at (159.6606738339194, 64.0, -146.84415031692257)
+[01:58:13] [Server thread/INFO]: FranPiovano joined the game
+[01:58:26] [Server thread/INFO]: [FranPiovano: Teleported FranPiovano to notfabripe]
+[01:58:28] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:58:28] [Server thread/INFO]: FranPiovano left the game
+[01:58:33] [Server thread/INFO]: FranPiovano[/127.132.119.81:33879] logged in with entity id 3061 at (161.6490580155016, 63.76636799395752, -126.71800177064323)
+[01:58:33] [Server thread/INFO]: FranPiovano joined the game
+[01:58:41] [Server thread/INFO]: elJotaBe has made the advancement [Stone Age]
+[01:58:44] [Server thread/INFO]: [FranPiovano: Teleported FranPiovano to notfabripe]
+[01:58:48] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:58:48] [Server thread/INFO]: FranPiovano left the game
+[01:58:51] [Server thread/INFO]: FranPiovano[/127.132.119.81:58807] logged in with entity id 3187 at (161.18412106397378, 59.00133597911215, -120.28476944958796)
+[01:58:51] [Server thread/INFO]: FranPiovano joined the game
+[01:59:06] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:59:06] [Server thread/INFO]: FranPiovano left the game
+[01:59:32] [Server thread/INFO]: FranPiovano[/127.132.119.81:51611] logged in with entity id 3354 at (161.18412106397378, 59.00133597911215, -120.28476944958796)
+[01:59:32] [Server thread/INFO]: FranPiovano joined the game
+[01:59:47] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[01:59:47] [Server thread/INFO]: FranPiovano left the game
+[02:00:08] [Server thread/INFO]: FranPiovano[/127.132.119.81:54561] logged in with entity id 3508 at (161.18412106397378, 59.00133597911215, -120.28476944958796)
+[02:00:08] [Server thread/INFO]: FranPiovano joined the game
+[02:00:21] [Server thread/INFO]: elJotaBe has made the advancement [Getting an Upgrade]
+[02:00:23] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[02:00:23] [Server thread/INFO]: FranPiovano left the game
+[02:00:36] [Server thread/INFO]: FranPiovano[/127.132.119.81:56499] logged in with entity id 3607 at (161.18412106397378, 59.00133597911215, -120.28476944958796)
+[02:00:36] [Server thread/INFO]: FranPiovano joined the game
+[02:00:51] [Server thread/INFO]: FranPiovano lost connection: Timed out
+[02:00:51] [Server thread/INFO]: FranPiovano left the game
