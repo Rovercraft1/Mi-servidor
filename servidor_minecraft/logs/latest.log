@@ -416,3 +416,18 @@
 [02:27:12] [Server thread/INFO]: <elJotaBe> zzz
 [02:27:47] [Server thread/INFO]: <elJotaBe> 245 65 -218
 [02:28:22] [Server thread/INFO]: <elJotaBe> 518 78 -134
+[02:31:44] [Server thread/INFO]: notfabripe lost connection: Disconnected
+[02:31:44] [Server thread/INFO]: notfabripe left the game
+[02:31:47] [Server thread/INFO]: elJotaBe lost connection: Disconnected
+[02:31:47] [Server thread/INFO]: elJotaBe left the game
+[02:31:51] [Server thread/INFO]: Stopping the server
+[02:31:51] [Server thread/INFO]: Stopping server
+[02:31:51] [Server thread/INFO]: Saving players
+[02:31:51] [Server thread/INFO]: Saving worlds
+[02:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:31:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
