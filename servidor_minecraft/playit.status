@@ -1,255 +1,67 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734145459697 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148079148 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145462763 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148094252 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145465829 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734148097317 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145468892 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148112417 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145471954 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148127513 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145475031 tunnel running, 1 tunnels registered
+joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148127700 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145478106 tunnel running, 1 tunnels registered
+necraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1734148112241 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145481172 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1734148115309 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145484239 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145487343 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145490404 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145493473 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145496561 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145499664 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145502734 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145505851 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145508982 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145512049 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145515128 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145518188 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145521445 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145524517 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145527605 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145530668 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145533740 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145536826 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145539893 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145542966 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145546042 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145549110 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145552219 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145555279 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145558336 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145561400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145564463 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145567528 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145570598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145573655 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145576728 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145579800 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145582861 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145585921 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145588995 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145592064 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145595132 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145598199 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145601270 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145604347 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145607423 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145610492 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734145613552 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-white-rapid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
