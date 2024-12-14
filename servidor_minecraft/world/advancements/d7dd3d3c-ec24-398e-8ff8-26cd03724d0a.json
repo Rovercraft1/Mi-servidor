@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-14 02:05:32 +0000"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-14 02:03:28 +0000"
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-14 01:57:46 +0000"
@@ -68,6 +86,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-14 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
     },
     "done": true
   },
@@ -140,6 +164,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-14 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-14 03:39:29 +0000"
     },
     "done": true
   },
@@ -224,6 +254,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
     },
     "done": true
   },
@@ -317,9 +353,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
     },
     "done": true
   },
@@ -344,6 +398,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-14 02:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
     },
     "done": true
   },
@@ -417,6 +477,8 @@
     "criteria": {
       "minecraft:forest": "2024-12-14 01:53:06 +0000",
       "minecraft:mountains": "2024-12-14 02:19:14 +0000",
+      "minecraft:taiga": "2024-12-14 03:33:21 +0000",
+      "minecraft:beach": "2024-12-14 03:34:18 +0000",
       "minecraft:dark_forest": "2024-12-14 01:56:07 +0000",
       "minecraft:river": "2024-12-14 01:55:46 +0000",
       "minecraft:wooded_hills": "2024-12-14 02:28:58 +0000",
@@ -532,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-14 03:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 01:58:41 +0000"
@@ -568,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-14 01:55:47 +0000"
@@ -577,6 +651,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 03:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-14 03:23:09 +0000"
     },
     "done": true
   },
@@ -592,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 03:21:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 01:55:47 +0000"
@@ -601,6 +693,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-14 02:08:44 +0000",
+      "minecraft:spider": "2024-12-14 03:21:07 +0000",
       "minecraft:creeper": "2024-12-14 02:11:31 +0000",
       "minecraft:zombie": "2024-12-14 02:10:02 +0000"
     },
@@ -705,6 +798,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-14 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-14 03:33:46 +0000"
     },
     "done": true
   },
