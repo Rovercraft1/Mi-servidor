@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 04:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-14 03:17:44 +0000"
@@ -584,8 +590,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2024-12-14 04:02:02 +0000",
       "minecraft:forest": "2024-12-14 03:16:03 +0000",
       "minecraft:mountains": "2024-12-14 03:30:35 +0000",
+      "minecraft:jungle": "2024-12-14 04:03:04 +0000",
+      "minecraft:jungle_hills": "2024-12-14 04:02:17 +0000",
       "minecraft:beach": "2024-12-14 03:43:26 +0000",
       "minecraft:dark_forest": "2024-12-14 03:29:34 +0000",
       "minecraft:river": "2024-12-14 03:16:44 +0000",
@@ -907,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-14 04:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-12-14 03:19:28 +0000"
@@ -928,6 +943,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-14 03:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-14 04:02:11 +0000"
     },
     "done": true
   },
@@ -1012,6 +1033,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-14 04:02:11 +0000"
     },
     "done": true
   },

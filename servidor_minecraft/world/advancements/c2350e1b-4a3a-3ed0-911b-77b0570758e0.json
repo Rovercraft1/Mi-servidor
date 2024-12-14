@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 04:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-14 01:56:06 +0000"
@@ -301,9 +307,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-14 04:03:53 +0000",
       "apple": "2024-12-14 02:55:25 +0000",
       "bread": "2024-12-14 03:30:05 +0000",
-      "rotten_flesh": "2024-12-14 03:23:04 +0000"
+      "rotten_flesh": "2024-12-14 03:23:04 +0000",
+      "beetroot": "2024-12-14 04:03:10 +0000"
     },
     "done": false
   },
@@ -595,6 +603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 04:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-14 01:47:21 +0000",
@@ -660,6 +680,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-14 04:04:37 +0000"
     },
     "done": true
   },
