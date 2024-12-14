@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-14 03:20:03 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 03:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
     },
     "done": true
   },
@@ -187,6 +199,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-14 04:55:51 +0000",
       "cooked_mutton": "2024-12-14 03:26:47 +0000",
       "baked_potato": "2024-12-14 04:31:07 +0000",
       "bread": "2024-12-14 04:18:30 +0000",
@@ -275,6 +288,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
     },
     "done": true
   },
@@ -494,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-14 04:27:45 +0000"
@@ -591,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-14 04:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 03:16:44 +0000"
@@ -672,6 +703,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-14 04:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
     },
     "done": true
   },
@@ -810,6 +847,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-14 03:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-14 04:55:08 +0000"
     },
     "done": true
   },
@@ -956,6 +999,7 @@
       "minecraft:jungle_edge": "2024-12-14 04:02:02 +0000",
       "minecraft:forest": "2024-12-14 03:16:03 +0000",
       "minecraft:mountains": "2024-12-14 03:30:35 +0000",
+      "minecraft:taiga": "2024-12-14 04:53:34 +0000",
       "minecraft:jungle": "2024-12-14 04:03:04 +0000",
       "minecraft:jungle_hills": "2024-12-14 04:02:17 +0000",
       "minecraft:bamboo_jungle": "2024-12-14 04:07:41 +0000",
@@ -998,6 +1042,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-14 04:57:01 +0000"
     },
     "done": true
   },
