@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 04:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-14 03:20:03 +0000"
@@ -308,6 +314,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-14 03:26:47 +0000",
+      "bread": "2024-12-14 04:18:30 +0000",
       "cooked_chicken": "2024-12-14 03:35:44 +0000"
     },
     "done": false
@@ -327,6 +334,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 04:10:34 +0000"
     },
     "done": true
   },
@@ -595,6 +608,7 @@
       "minecraft:mountains": "2024-12-14 03:30:35 +0000",
       "minecraft:jungle": "2024-12-14 04:03:04 +0000",
       "minecraft:jungle_hills": "2024-12-14 04:02:17 +0000",
+      "minecraft:bamboo_jungle": "2024-12-14 04:07:41 +0000",
       "minecraft:beach": "2024-12-14 03:43:26 +0000",
       "minecraft:dark_forest": "2024-12-14 03:29:34 +0000",
       "minecraft:river": "2024-12-14 03:16:44 +0000",
@@ -1087,6 +1101,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-14 03:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-14 04:05:19 +0000"
     },
     "done": true
   },
