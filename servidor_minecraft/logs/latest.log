@@ -1,0 +1,95 @@
+[01:40:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:40:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:40:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:40:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:40:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:40:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:40:54] [main/INFO]: Reloading ResourceManager: Default
+[01:40:55] [Worker-Main-4/INFO]: Loaded 7 recipes
+[01:40:55] [Worker-Main-4/INFO]: Loaded 1137 advancements
+[01:40:58] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[01:40:58] [Server thread/INFO]: Loading properties
+[01:40:58] [Server thread/INFO]: Default game type: SURVIVAL
+[01:40:58] [Server thread/INFO]: Generating keypair
+[01:40:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:40:58] [Server thread/INFO]: Using epoll channel type
+[01:40:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:59] [Server thread/INFO]: Preparing level "world"
+[01:41:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:41:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:41:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:41:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:41:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:41:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:41:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:41:09] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[01:41:09] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[01:41:10] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[01:41:10] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[01:41:11] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[01:41:11] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[01:41:12] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[01:41:12] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[01:41:13] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[01:41:13] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[01:41:14] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[01:41:14] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[01:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[01:41:15] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[01:41:16] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[01:41:16] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[01:41:17] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[01:41:17] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[01:41:18] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[01:41:18] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[01:41:19] [Worker-Main-4/INFO]: Preparing spawn area: 15%
+[01:41:19] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[01:41:20] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[01:41:20] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[01:41:21] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[01:41:21] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[01:41:22] [Worker-Main-5/INFO]: Preparing spawn area: 19%
+[01:41:22] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[01:41:23] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[01:41:23] [Worker-Main-6/INFO]: Preparing spawn area: 27%
+[01:41:24] [Worker-Main-6/INFO]: Preparing spawn area: 28%
+[01:41:24] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[01:41:25] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[01:41:25] [Worker-Main-4/INFO]: Preparing spawn area: 34%
+[01:41:27] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[01:41:27] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[01:41:27] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[01:41:27] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[01:41:28] [Worker-Main-6/INFO]: Preparing spawn area: 47%
+[01:41:28] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[01:41:29] [Worker-Main-4/INFO]: Preparing spawn area: 51%
+[01:41:30] [Worker-Main-4/INFO]: Preparing spawn area: 55%
+[01:41:30] [Worker-Main-4/INFO]: Preparing spawn area: 55%
+[01:41:31] [Worker-Main-6/INFO]: Preparing spawn area: 59%
+[01:41:31] [Worker-Main-6/INFO]: Preparing spawn area: 59%
+[01:41:31] [Worker-Main-6/INFO]: Preparing spawn area: 59%
+[01:41:32] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[01:41:32] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[01:41:33] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[01:41:33] [Worker-Main-5/INFO]: Preparing spawn area: 75%
+[01:41:34] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[01:41:34] [Worker-Main-5/INFO]: Preparing spawn area: 86%
+[01:41:35] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[01:41:35] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[01:41:36] [Worker-Main-5/INFO]: Preparing spawn area: 94%
+[01:41:36] [Server thread/INFO]: Time elapsed: 30302 ms
+[01:41:36] [Server thread/INFO]: Done (37.092s)! For help, type "help"
+[01:47:21] [Server thread/INFO]: FranPiovano[/127.132.119.81:58327] logged in with entity id 320 at (91.5, 64.0, -193.5)
+[01:47:21] [Server thread/INFO]: FranPiovano joined the game
+[01:47:33] [Server thread/INFO]: FranPiovano lost connection: Disconnected
+[01:47:33] [Server thread/INFO]: FranPiovano left the game
+[01:47:57] [Server thread/INFO]: FranPiovano[/127.132.119.81:35437] logged in with entity id 471 at (91.5, 64.0, -193.5)
+[01:47:57] [Server thread/INFO]: FranPiovano joined the game
+[01:48:12] [Server thread/INFO]: FranPiovano lost connection: Disconnected
+[01:48:12] [Server thread/INFO]: FranPiovano left the game
+[01:48:12] [Server thread/WARN]: handleDisconnection() called twice
+[01:48:54] [Server thread/INFO]: FranPiovano[/127.132.119.81:56439] logged in with entity id 519 at (91.5, 64.0, -193.5)
+[01:48:54] [Server thread/INFO]: FranPiovano joined the game
