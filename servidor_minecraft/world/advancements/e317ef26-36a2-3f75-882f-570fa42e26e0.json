@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-15 20:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-15 20:03:57 +0000"
