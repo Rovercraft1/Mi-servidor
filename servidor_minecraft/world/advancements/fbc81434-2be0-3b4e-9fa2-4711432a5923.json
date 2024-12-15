@@ -455,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-15 19:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 03:08:47 +0000"
@@ -812,6 +818,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 05:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-15 19:33:02 +0000"
     },
     "done": true
   },
@@ -1419,6 +1431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-15 19:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 03:19:29 +0000"
@@ -1817,7 +1835,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-15 19:41:39 +0000",
       "minecraft:forest": "2024-12-14 02:42:08 +0000",
+      "minecraft:mountains": "2024-12-15 19:44:33 +0000",
       "minecraft:taiga": "2024-12-15 19:25:14 +0000",
       "minecraft:taiga_hills": "2024-12-14 04:16:54 +0000",
       "minecraft:birch_forest": "2024-12-14 02:53:37 +0000",
@@ -1826,6 +1846,8 @@
       "minecraft:river": "2024-12-14 02:41:22 +0000",
       "minecraft:birch_forest_hills": "2024-12-14 02:53:23 +0000",
       "minecraft:wooded_hills": "2024-12-14 03:02:40 +0000",
+      "minecraft:stone_shore": "2024-12-15 19:44:23 +0000",
+      "minecraft:swamp": "2024-12-15 19:40:07 +0000",
       "minecraft:plains": "2024-12-14 02:41:26 +0000"
     },
     "done": false
@@ -2007,6 +2029,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-15 19:33:02 +0000"
     },
     "done": true
   },
