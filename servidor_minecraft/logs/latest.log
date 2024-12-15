@@ -224,3 +224,9 @@
 [20:43:02] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=904, y=112, z=-344} gg{x=904, y=111, z=-344}
 [21:08:13] [Server thread/INFO]: gambetadutari lost connection: Timed out
 [21:08:13] [Server thread/INFO]: gambetadutari left the game
+[22:09:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:09:00] [Server thread/INFO]: LIST<--[HERE]
+[22:09:04] [Server thread/INFO]: There are 1 of a max of 20 players online: Sanik726
+[22:10:03] [Server thread/INFO]: Sanik726 has made the advancement [Enchanter]
+[22:16:18] [Server thread/INFO]: Sanik726 lost connection: Disconnected
+[22:16:18] [Server thread/INFO]: Sanik726 left the game
