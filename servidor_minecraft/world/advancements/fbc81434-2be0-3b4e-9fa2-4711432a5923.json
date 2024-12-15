@@ -420,6 +420,7 @@
       "sweet_berries": "2024-12-14 05:00:43 +0000",
       "cooked_beef": "2024-12-14 04:31:23 +0000",
       "beef": "2024-12-14 02:58:19 +0000",
+      "cooked_cod": "2024-12-15 20:02:37 +0000",
       "mutton": "2024-12-14 02:53:38 +0000",
       "suspicious_stew": "2024-12-15 19:46:11 +0000",
       "cooked_chicken": "2024-12-14 04:10:08 +0000"
@@ -1038,6 +1039,7 @@
       "minecraft:spider": "2024-12-14 04:19:54 +0000",
       "minecraft:enderman": "2024-12-14 04:44:45 +0000",
       "minecraft:zombie": "2024-12-14 03:43:49 +0000",
+      "minecraft:drowned": "2024-12-15 20:03:43 +0000",
       "minecraft:zombie_villager": "2024-12-15 19:05:48 +0000"
     },
     "done": false
@@ -1588,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-15 19:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-14 04:38:22 +0000"
@@ -2024,6 +2032,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-14 02:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-15 20:00:49 +0000"
     },
     "done": true
   },
