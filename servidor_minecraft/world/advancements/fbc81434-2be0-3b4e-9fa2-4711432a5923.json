@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 19:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-15 18:55:29 +0000"
@@ -572,6 +578,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-14 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-15 19:04:34 +0000"
     },
     "done": true
   },
@@ -952,7 +964,8 @@
       "minecraft:skeleton": "2024-12-14 04:19:06 +0000",
       "minecraft:spider": "2024-12-14 04:19:54 +0000",
       "minecraft:enderman": "2024-12-14 04:44:45 +0000",
-      "minecraft:zombie": "2024-12-14 03:43:49 +0000"
+      "minecraft:zombie": "2024-12-14 03:43:49 +0000",
+      "minecraft:zombie_villager": "2024-12-15 19:05:48 +0000"
     },
     "done": false
   },
