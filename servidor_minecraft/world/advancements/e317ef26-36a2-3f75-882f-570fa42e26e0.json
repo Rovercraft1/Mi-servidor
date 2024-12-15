@@ -163,6 +163,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-15 20:41:27 +0000",
       "baked_potato": "2024-12-15 20:01:46 +0000",
       "spider_eye": "2024-12-15 20:21:47 +0000",
       "rotten_flesh": "2024-12-15 20:21:55 +0000"
@@ -208,6 +209,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 19:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-15 20:39:00 +0000"
     },
     "done": true
   },
@@ -552,6 +559,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-15 20:39:00 +0000",
       "minecraft:spider": "2024-12-15 20:20:53 +0000",
       "minecraft:zombie": "2024-12-15 20:16:10 +0000"
     },

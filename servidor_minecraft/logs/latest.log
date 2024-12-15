@@ -221,3 +221,4 @@
 [20:31:12] [Server thread/INFO]: Sanik726 left the game
 [20:32:31] [Server thread/INFO]: Sanik726[/127.216.174.42:45709] logged in with entity id 58998 at (1009.5037435626989, 68.0, -162.69662712737394)
 [20:32:31] [Server thread/INFO]: Sanik726 joined the game
+[20:43:02] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=904, y=112, z=-344} gg{x=904, y=111, z=-344}
