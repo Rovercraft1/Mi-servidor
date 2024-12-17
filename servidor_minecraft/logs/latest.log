@@ -39,3 +39,17 @@
 [14:22:48] [Server thread/INFO]: ELMozo[/127.40.121.250:48715] logged in with entity id 393 at (1135.34318109375, 10.0, -143.6045600012248)
 [14:22:48] [Server thread/INFO]: ELMozo joined the game
 [14:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[15:04:36] [Server thread/INFO]: ELMozo has made the advancement [Cover Me with Diamonds]
+[15:08:23] [Server thread/INFO]: ELMozo lost connection: Disconnected
+[15:08:23] [Server thread/INFO]: ELMozo left the game
+[15:08:32] [Server thread/INFO]: Stopping the server
+[15:08:32] [Server thread/INFO]: Stopping server
+[15:08:32] [Server thread/INFO]: Saving players
+[15:08:32] [Server thread/INFO]: Saving worlds
+[15:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:08:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:08:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:08:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:08:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
