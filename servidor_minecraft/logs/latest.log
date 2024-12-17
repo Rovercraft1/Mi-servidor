@@ -1,243 +1,47 @@
-[18:45:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:45:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:45:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:45:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:45:43] [main/INFO]: Reloading ResourceManager: Default
-[18:45:44] [Worker-Main-4/INFO]: Loaded 7 recipes
-[18:45:45] [Worker-Main-4/INFO]: Loaded 1137 advancements
-[18:45:48] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[18:45:48] [Server thread/INFO]: Loading properties
-[18:45:48] [Server thread/INFO]: Default game type: SURVIVAL
-[18:45:48] [Server thread/INFO]: Generating keypair
-[18:45:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:45:48] [Server thread/INFO]: Using epoll channel type
-[18:45:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:45:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:45:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:45:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:45:48] [Server thread/INFO]: Preparing level "world"
-[18:45:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:45:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:45:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[18:45:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:45:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:52] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[18:45:53] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[18:45:53] [Worker-Main-5/INFO]: Preparing spawn area: 3%
-[18:45:54] [Worker-Main-4/INFO]: Preparing spawn area: 4%
-[18:45:54] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-4/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:45:59] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[18:46:00] [Worker-Main-4/INFO]: Preparing spawn area: 5%
-[18:46:00] [Worker-Main-4/INFO]: Preparing spawn area: 12%
-[18:46:01] [Server thread/INFO]: Time elapsed: 12184 ms
-[18:46:01] [Server thread/INFO]: Done (12.399s)! For help, type "help"
-[18:47:11] [Server thread/INFO]: elJotaBe[/127.99.28.50:48087] logged in with entity id 314 at (1008.0426580465338, 68.0, -162.06864547641376)
-[18:47:11] [Server thread/INFO]: elJotaBe joined the game
-[18:47:27] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[18:47:27] [Server thread/INFO]: elJotaBe left the game
-[18:47:35] [Server thread/INFO]: elJotaBe[/127.99.28.50:50945] logged in with entity id 323 at (1008.0426580465338, 68.0, -162.06864547641376)
-[18:47:35] [Server thread/INFO]: elJotaBe joined the game
-[18:47:50] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[18:47:50] [Server thread/INFO]: elJotaBe left the game
-[18:47:58] [Server thread/INFO]: elJotaBe[/127.99.28.50:41155] logged in with entity id 362 at (1008.0426580465338, 68.0, -162.06864547641376)
-[18:47:58] [Server thread/INFO]: elJotaBe joined the game
-[18:48:40] [Server thread/INFO]: You whisper to elJotaBe: nene mett al ds
-[18:48:53] [Server thread/INFO]: <elJotaBe> ya voy
-[18:51:43] [Server thread/INFO]: Sanik726[/127.216.174.42:41983] logged in with entity id 1198 at (994.4668061050376, 69.75, -152.71685958421034)
-[18:51:43] [Server thread/INFO]: Sanik726 joined the game
-[18:52:56] [Server thread/INFO]: elJotaBe has made the advancement [Diamonds!]
-[18:58:29] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[18:58:29] [Server thread/INFO]: elJotaBe left the game
-[18:58:41] [Server thread/INFO]: elJotaBe[/127.99.28.50:57235] logged in with entity id 2634 at (939.3000000119209, 63.0, -29.69999998807907)
-[18:58:41] [Server thread/INFO]: elJotaBe joined the game
-[18:58:57] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[18:58:57] [Server thread/INFO]: elJotaBe left the game
-[18:59:06] [Server thread/INFO]: elJotaBe[/127.99.28.50:57353] logged in with entity id 2883 at (939.3000000119209, 63.0, -29.69999998807907)
-[18:59:06] [Server thread/INFO]: elJotaBe joined the game
-[18:59:36] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[18:59:36] [Server thread/INFO]: elJotaBe left the game
-[18:59:52] [Server thread/INFO]: elJotaBe[/127.99.28.50:39429] logged in with entity id 3152 at (939.3000000119209, 63.0, -29.69999998807907)
-[18:59:52] [Server thread/INFO]: elJotaBe joined the game
-[19:00:07] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:00:07] [Server thread/INFO]: elJotaBe left the game
-[19:00:11] [Server thread/INFO]: elJotaBe[/127.99.28.50:45265] logged in with entity id 3451 at (939.3000000119209, 63.0, -29.69999998807907)
-[19:00:11] [Server thread/INFO]: elJotaBe joined the game
-[19:00:26] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:00:26] [Server thread/INFO]: elJotaBe left the game
-[19:00:35] [Server thread/INFO]: elJotaBe[/127.99.28.50:48891] logged in with entity id 3681 at (939.3000000119209, 63.0, -29.69999998807907)
-[19:00:35] [Server thread/INFO]: elJotaBe joined the game
-[19:00:50] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:00:50] [Server thread/INFO]: elJotaBe left the game
-[19:01:20] [Server thread/INFO]: elJotaBe[/127.99.28.50:49173] logged in with entity id 3947 at (939.3000000119209, 63.0, -29.69999998807907)
-[19:01:20] [Server thread/INFO]: elJotaBe joined the game
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -0.6753293887215932,0.0,10.000748385829
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -0.8492108758855466,0.0,10.345719082219636
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.0250687869740887,0.0,10.691192887159993
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.202146019176098,0.0,11.037423235052877
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.3798144162403787,0.0,11.384599492462124
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.5575564069533812,0.0,11.732859217329073
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.7349481221413043,0.0,12.08229861112183
-[19:24:50] [Server thread/WARN]: Boat (vehicle of Sanik726) moved too quickly! -1.9116473757826498,0.0,12.43297982098033
-[19:33:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1556, y=61, z=205} gg{x=1556, y=60, z=206}
-[19:33:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1556, y=61, z=205} gg{x=1556, y=60, z=206}
-[19:43:38] [Server thread/INFO]: pichichi222[/127.235.173.19:47049] logged in with entity id 26096 at (950.9360424577243, 107.0, -284.6750563754527)
-[19:43:38] [Server thread/INFO]: pichichi222 joined the game
-[19:45:07] [Server thread/INFO]: <elJotaBe> pichiii
-[19:45:11] [Server thread/INFO]: <elJotaBe> metete a ds
-[19:45:24] [Server thread/INFO]: <pichichi222> no puedo
-[19:45:31] [Server thread/INFO]: <elJotaBe> ahhh okok
-[19:45:38] [Server thread/INFO]: <elJotaBe> como andas?
-[19:45:54] [Server thread/INFO]: <pichichi222> todo bien
-[19:48:39] [Server thread/INFO]: pichichi222 has made the advancement [Ice Bucket Challenge]
-[19:50:24] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:50:24] [Server thread/INFO]: elJotaBe left the game
-[19:50:46] [Server thread/INFO]: elJotaBe[/127.99.28.50:38965] logged in with entity id 30623 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:50:46] [Server thread/INFO]: elJotaBe joined the game
-[19:51:01] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:51:01] [Server thread/INFO]: elJotaBe left the game
-[19:51:07] [Server thread/INFO]: gambetadutari[/127.132.227.175:38705] logged in with entity id 30918 at (1003.5, 68.0, -164.5)
-[19:51:07] [Server thread/INFO]: gambetadutari joined the game
-[19:51:12] [Server thread/INFO]: elJotaBe[/127.99.28.50:34103] logged in with entity id 30932 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:51:12] [Server thread/INFO]: elJotaBe joined the game
-[19:51:27] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:51:27] [Server thread/INFO]: elJotaBe left the game
-[19:51:40] [Server thread/INFO]: elJotaBe[/127.99.28.50:54443] logged in with entity id 31430 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:51:40] [Server thread/INFO]: elJotaBe joined the game
-[19:51:46] [Server thread/INFO]: gambetadutari has made the advancement [Stone Age]
-[19:51:55] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:51:55] [Server thread/INFO]: elJotaBe left the game
-[19:52:39] [Server thread/INFO]: elJotaBe[/127.99.28.50:35773] logged in with entity id 32476 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:52:39] [Server thread/INFO]: elJotaBe joined the game
-[19:52:42] [Server thread/INFO]: <pichichi222> eu
-[19:52:48] [Server thread/INFO]: <pichichi222> no estan las nuevas cuevas o si
-[19:52:54] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:52:54] [Server thread/INFO]: elJotaBe left the game
-[19:53:17] [Server thread/INFO]: elJotaBe[/127.99.28.50:35611] logged in with entity id 33214 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:53:17] [Server thread/INFO]: elJotaBe joined the game
-[19:53:32] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:53:32] [Server thread/INFO]: elJotaBe left the game
-[19:53:47] [Server thread/INFO]: elJotaBe[/127.99.28.50:53789] logged in with entity id 34023 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:53:47] [Server thread/INFO]: elJotaBe joined the game
-[19:54:02] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[19:54:02] [Server thread/INFO]: elJotaBe left the game
-[19:54:12] [Server thread/INFO]: elJotaBe[/127.99.28.50:42209] logged in with entity id 34688 at (1012.2403946000392, 68.0, -163.0728398393176)
-[19:54:12] [Server thread/INFO]: elJotaBe joined the game
-[19:55:45] [Server thread/INFO]: You whisper to pichichi222: amigo, dos cosas, los pibes están en el ds por si te interesa y no, no están las cuevas nuevas
-[19:56:46] [Server thread/INFO]: gambetadutari has made the advancement [Acquire Hardware]
-[19:57:35] [Server thread/INFO]: gambetadutari has made the advancement [Suit Up]
-[19:59:52] [Server thread/INFO]: gambetadutari has made the advancement [Isn't It Iron Pick]
-[20:00:49] [Server thread/INFO]: Sanik726 has made the advancement [The Cutest Predator]
-[20:01:44] [Server thread/INFO]: <elJotaBe> duerman si puedenç
-[20:01:53] [Server thread/INFO]: gambetadutari has made the advancement [Sweet Dreams]
-[20:01:55] [Server thread/INFO]: Sanik726 lost connection: Disconnected
-[20:01:55] [Server thread/INFO]: Sanik726 left the game
-[20:01:57] [Server thread/INFO]: <elJotaBe> zzz
-[20:01:58] [Server thread/INFO]: pichichi222 lost connection: Disconnected
-[20:01:58] [Server thread/INFO]: pichichi222 left the game
-[20:02:02] [Server thread/INFO]: pichichi222[/127.235.173.19:54243] logged in with entity id 39585 at (1094.781148500149, 69.0, -839.6903822236197)
-[20:02:02] [Server thread/INFO]: pichichi222 joined the game
-[20:02:24] [Server thread/INFO]: Sanik726[/127.216.174.42:35061] logged in with entity id 40106 at (979.1727622138008, 62.07326420799215, 1110.8917805717495)
-[20:02:24] [Server thread/INFO]: Sanik726 joined the game
-[20:02:43] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:02:43] [Server thread/INFO]: elJotaBe left the game
-[20:02:53] [Server thread/INFO]: elJotaBe[/127.99.28.50:58037] logged in with entity id 40927 at (1014.0067390657887, 68.49520087700593, -163.34301248190064)
-[20:02:53] [Server thread/INFO]: elJotaBe joined the game
-[20:03:08] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:03:08] [Server thread/INFO]: elJotaBe left the game
-[20:03:54] [Server thread/INFO]: elJotaBe[/127.99.28.50:46579] logged in with entity id 41505 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:03:54] [Server thread/INFO]: elJotaBe joined the game
-[20:04:09] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:04:09] [Server thread/INFO]: elJotaBe left the game
-[20:04:36] [Server thread/INFO]: elJotaBe[/127.99.28.50:33447] logged in with entity id 42022 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:04:36] [Server thread/INFO]: elJotaBe joined the game
-[20:04:52] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:04:52] [Server thread/INFO]: elJotaBe left the game
-[20:05:02] [Server thread/INFO]: elJotaBe[/127.99.28.50:60093] logged in with entity id 42317 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:05:02] [Server thread/INFO]: elJotaBe joined the game
-[20:05:17] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:05:17] [Server thread/INFO]: elJotaBe left the game
-[20:05:44] [Server thread/INFO]: elJotaBe[/127.99.28.50:41613] logged in with entity id 42641 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:05:44] [Server thread/INFO]: elJotaBe joined the game
-[20:05:59] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:05:59] [Server thread/INFO]: elJotaBe left the game
-[20:06:05] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1063, y=58, z=940} gg{x=1063, y=59, z=940}
-[20:06:22] [Server thread/INFO]: elJotaBe[/127.99.28.50:56625] logged in with entity id 43017 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:06:22] [Server thread/INFO]: elJotaBe joined the game
-[20:06:37] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:06:37] [Server thread/INFO]: elJotaBe left the game
-[20:07:14] [Server thread/INFO]: elJotaBe[/127.99.28.50:58627] logged in with entity id 43401 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:07:14] [Server thread/INFO]: elJotaBe joined the game
-[20:07:29] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:07:29] [Server thread/INFO]: elJotaBe left the game
-[20:07:37] [Server thread/INFO]: elJotaBe[/127.99.28.50:43355] logged in with entity id 43649 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:07:37] [Server thread/INFO]: elJotaBe joined the game
-[20:07:52] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:07:52] [Server thread/INFO]: elJotaBe left the game
-[20:08:25] [Server thread/INFO]: elJotaBe[/127.99.28.50:34665] logged in with entity id 44291 at (1014.0067390657887, 68.03104150205048, -163.34301248190064)
-[20:08:25] [Server thread/INFO]: elJotaBe joined the game
-[20:08:37] [Server thread/INFO]: gambetadutari fell from a high place
-[20:08:43] [Server thread/INFO]: <pichichi222> peteee
-[20:09:41] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:09:41] [Server thread/INFO]: elJotaBe left the game
-[20:09:56] [Server thread/INFO]: elJotaBe[/127.99.28.50:36333] logged in with entity id 46514 at (879.4076417101754, 77.0, -276.0926011883533)
-[20:09:56] [Server thread/INFO]: elJotaBe joined the game
-[20:10:11] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:10:11] [Server thread/INFO]: elJotaBe left the game
-[20:10:46] [Server thread/INFO]: elJotaBe[/127.99.28.50:46079] logged in with entity id 47375 at (879.4076417101754, 77.0, -276.0926011883533)
-[20:10:46] [Server thread/INFO]: elJotaBe joined the game
-[20:11:02] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:11:02] [Server thread/INFO]: elJotaBe left the game
-[20:11:09] [Server thread/INFO]: elJotaBe[/127.99.28.50:56137] logged in with entity id 47567 at (879.4076417101754, 77.0, -276.0926011883533)
-[20:11:09] [Server thread/INFO]: elJotaBe joined the game
-[20:11:24] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:11:24] [Server thread/INFO]: elJotaBe left the game
-[20:11:48] [Server thread/INFO]: elJotaBe[/127.99.28.50:40199] logged in with entity id 48068 at (879.4076417101754, 77.0, -276.0926011883533)
-[20:11:48] [Server thread/INFO]: elJotaBe joined the game
-[20:12:04] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:12:04] [Server thread/INFO]: elJotaBe left the game
-[20:12:41] [Server thread/INFO]: elJotaBe[/127.99.28.50:45825] logged in with entity id 49113 at (879.4076417101754, 77.0, -276.0926011883533)
-[20:12:41] [Server thread/INFO]: elJotaBe joined the game
-[20:12:56] [Server thread/INFO]: elJotaBe lost connection: Timed out
-[20:12:56] [Server thread/INFO]: elJotaBe left the game
-[20:14:22] [Server thread/INFO]: <Sanik726> zzzzzzzz
-[20:16:10] [Server thread/INFO]: gambetadutari has made the advancement [Monster Hunter]
-[20:18:29] [Server thread/INFO]: pichichi222 lost connection: Disconnected
-[20:18:29] [Server thread/INFO]: pichichi222 left the game
-[20:31:12] [Server thread/INFO]: Sanik726 lost connection: Disconnected
-[20:31:12] [Server thread/INFO]: Sanik726 left the game
-[20:32:31] [Server thread/INFO]: Sanik726[/127.216.174.42:45709] logged in with entity id 58998 at (1009.5037435626989, 68.0, -162.69662712737394)
-[20:32:31] [Server thread/INFO]: Sanik726 joined the game
-[20:43:02] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=904, y=112, z=-344} gg{x=904, y=111, z=-344}
-[21:08:13] [Server thread/INFO]: gambetadutari lost connection: Timed out
-[21:08:13] [Server thread/INFO]: gambetadutari left the game
-[22:09:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:09:00] [Server thread/INFO]: LIST<--[HERE]
-[22:09:04] [Server thread/INFO]: There are 1 of a max of 20 players online: Sanik726
-[22:10:03] [Server thread/INFO]: Sanik726 has made the advancement [Enchanter]
-[22:16:18] [Server thread/INFO]: Sanik726 lost connection: Disconnected
-[22:16:18] [Server thread/INFO]: Sanik726 left the game
-[22:19:30] [Server thread/INFO]: Stopping the server
-[22:19:30] [Server thread/INFO]: Stopping server
-[22:19:30] [Server thread/INFO]: Saving players
-[22:19:30] [Server thread/INFO]: Saving worlds
-[22:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:28:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:28:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:40] [main/INFO]: Reloading ResourceManager: Default
+[13:28:42] [Worker-Main-4/INFO]: Loaded 7 recipes
+[13:28:42] [Worker-Main-4/INFO]: Loaded 1137 advancements
+[13:28:45] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[13:28:45] [Server thread/INFO]: Loading properties
+[13:28:45] [Server thread/INFO]: Default game type: SURVIVAL
+[13:28:45] [Server thread/INFO]: Generating keypair
+[13:28:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:28:45] [Server thread/INFO]: Using epoll channel type
+[13:28:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:28:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:28:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:28:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:28:45] [Server thread/INFO]: Preparing level "world"
+[13:28:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:28:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:28:47] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:28:47] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:28:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:28:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:28:50] [Worker-Main-4/INFO]: Preparing spawn area: 2%
+[13:28:50] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[13:28:51] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[13:28:51] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[13:28:52] [Worker-Main-5/INFO]: Preparing spawn area: 10%
+[13:28:52] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[13:28:53] [Worker-Main-5/INFO]: Preparing spawn area: 40%
+[13:28:53] [Worker-Main-4/INFO]: Preparing spawn area: 62%
+[13:28:54] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[13:28:55] [Server thread/INFO]: Time elapsed: 9111 ms
+[13:28:55] [Server thread/INFO]: Done (9.279s)! For help, type "help"
+[13:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:29:19] [Server thread/INFO]: ELMozo[/127.40.121.250:48647] logged in with entity id 433 at (1020.5, 68.0, -173.5)
+[13:29:19] [Server thread/INFO]: ELMozo joined the game
+[13:30:51] [Server thread/INFO]: [Server] excelente
+[13:31:16] [Server thread/INFO]: ELMozo has made the advancement [Sweet Dreams]
+[13:36:01] [Server thread/INFO]: ELMozo has made the advancement [Stone Age]
+[13:36:51] [Server thread/INFO]: ELMozo has made the advancement [Getting an Upgrade]
